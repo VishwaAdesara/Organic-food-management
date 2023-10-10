@@ -1,0 +1,102 @@
+nav 
+{
+	padding:30px;
+}
+body
+{
+	min-height:100vh;
+	width:100vw;
+	overflow-x:hidden;
+}
+.new {
+ background: red;
+ transition: width 2s;
+}
+.new:hover {
+ width:120px;
+}
+.new1:hover
+{
+	color:green;
+}
+.y1:hover
+{
+	transition:1s;
+	font-size:50px;
+	background-color:#f2daf1;
+}
+.food:hover
+{
+	 width:400px;
+}
+.pre1
+{
+	text-align:center;
+	color:white;
+	font-family:serif;
+}
+.para11
+{
+	font-family:serif;
+	font-weight:bold;
+}
+.cv
+{
+	max-width:700px;
+	height:100px;
+	background-color:#fcb8ca;
+}
+
+.av
+{
+	max-width:1200px;
+	height:50px;
+	background-color:#e6dfdf;
+	margin-bottom:9px
+}
+.a
+{
+	border:none;
+	margin-top:10px;
+}
+.b1
+{
+	background-color:#d63a57;
+	border:none;
+	border: 1px solid #ff004f;
+	padding: 14px 50px;
+	border-radius:3px;
+	color: #fff;
+	transition:background 0.5s;
+}
+.b1:hover
+{
+	width:200px;
+	height:80px;
+	transition-duration:2s;
+}
+.lform
+{
+	margin-left:160px;
+}
+.rform
+{
+	margin-right:160px;
+}
+nav .n1:hover
+{
+	background-color:#c3fad2;
+}
+.as
+{
+	background-color:#0a0a0a;
+	color:white;
+	text-align:center;
+}
+/*---For shopping button--*/
+#bns
+{
+	color:white;
+	text-decoration:none;
+
+}
